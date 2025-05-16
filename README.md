@@ -144,7 +144,8 @@ npm start
 }
 ```
 - **Screenshot:**
-  ![POST Add Product](../Pictures/Screenshots/test%20all%20API%20cases%20in%20Thunder%20Client/POST%20%E2%80%94%20Add%20Product%20%231%20(T-shirt).png)
+  ![POST Add Product] ![POST — Add Product #1 (T-shirt)](https://github.com/user-attachments/assets/12e34008-20f0-4858-a023-2dc7b0b56488)
+
 
 ---
 
@@ -152,7 +153,7 @@ npm start
 - **Method:** GET
 - **URL:** http://localhost:5000/api/products
 - **Screenshot:**
-  ![GET All Products](../Pictures/Screenshots/test%20all%20API%20cases%20in%20Thunder%20Client/GET%20%E2%80%94%20Fetch%20All%20Products.png)
+  ![GET All Products] ![GET — Fetch All Products](https://github.com/user-attachments/assets/82ad068b-3525-4327-9d2a-ea38ee3ae532)
 
 ---
 
@@ -161,7 +162,8 @@ npm start
 - **URL:** http://localhost:5000/api/products/&lt;product_id&gt;
   - Replace &lt;product_id&gt; with the actual product ID returned in Step 1.
 - **Screenshot:**
-  ![GET Product by ID](../Pictures/Screenshots/test%20all%20API%20cases%20in%20Thunder%20Client/GET%20Fetch%20Product%20by%20Valid%20id.png)
+  ![GET Product by ID] ![GET Fetch Product by Valid id](https://github.com/user-attachments/assets/086e4d77-c935-4565-9a84-a6709f7eac31)
+
 
 ---
 
@@ -180,7 +182,8 @@ npm start
   - Status: 400 Bad Request
   - Message: "Please provide all required fields"
 - **Screenshot:**
-  ![POST Product Error](../Pictures/Screenshots/test%20all%20API%20cases%20in%20Thunder%20Client/ERROR%20TEST%20%E2%80%94%20Send%20Incomplete%20POST%20(Missing%20fields).png)
+  ![POST Product Error] ![ERROR TEST — Send Incomplete POST (Missing fields)](https://github.com/user-attachments/assets/98dacb74-26ba-4b87-af59-b70fc08cf855)
+
 
 ---
 
@@ -191,7 +194,7 @@ npm start
   - Status: 404 Not Found
   - Message: "Product not found"
 - **Screenshot:**
-  ![GET Product Invalid ID](../Pictures/Screenshots/test%20all%20API%20cases%20in%20Thunder%20Client/ERROR%20TEST%20GET%20Invalid%20Product%20id.png)
+  ![GET Product Invalid ID]![ERROR TEST GET Invalid Product id](https://github.com/user-attachments/assets/4ba1c975-ef25-4cbd-bfd4-77333267ca8f)
 
 ## User Registration & Login API Test Cases (Thunder Client)
 
@@ -212,7 +215,8 @@ npm start
   - Status: 200 OK
   - JSON with a JWT token and user info
 - **Screenshot:**
-  ![User Registration](../Pictures/Screenshots/test%20all%20API%20cases%20in%20Thunder%20Client/User%20Registration.png)
+  ![User Registration] ![User Registration](https://github.com/user-attachments/assets/c2bb42fe-1c93-4497-ae42-17067fb4f7d3)
+
 
 ---
 
@@ -232,7 +236,8 @@ npm start
   - Status: 200 OK
   - JSON with a JWT token and user info
 - **Screenshot:**
-  ![User Login](../Pictures/Screenshots/test%20all%20API%20cases%20in%20Thunder%20Client/User%20Login.png)
+  ![User Login] ![User Login](https://github.com/user-attachments/assets/02224a0a-5a8d-4039-8bc4-9f9c4a174438)
+
 
 ---
 
